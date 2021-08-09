@@ -1,6 +1,6 @@
 # EF-MVSNet
 
-[HIGH-RESOLUTION MULTI-VIEW STEREO WITH DYNAMIC EDGE FLOW](). Kui Lin, Lei Li, Jianjun Zhang, Xing Zheng, Suping Wu.
+[HIGH-RESOLUTION MULTI-VIEW STEREO WITH DYNAMIC EDGE FLOW](https://ieeexplore.ieee.org/document/9428281). Kui Lin, Lei Li, Jianjun Zhang, Xing Zheng, Suping Wu.
 
 ## Environment
 * python 3.6 (Anaconda)
